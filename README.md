@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hadsitewa3r
 - 👀 I’m interested in you
 - 🌱 I’m currently learning c++ and OpenGL
-- 📫 How to reach me wachdarorihadch@protonmail.ch
+- 📫 you can reach me wachdarorihadch@protonmail.ch
 
 <!---
 hadsitewa3r/hadsitewa3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
